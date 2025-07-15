@@ -1,115 +1,165 @@
 {
   "basics": {
-    "name": "Zhenye (Nathan) Na",
-    "label": "Software Engineer",
-    "picture": "https://avatars.githubusercontent.com/u/32248549?v=4",
-    "website": "https://zhenye-na.github.io",
-    "summary": "I am currently a Software Development Engineer at Amazon Web Services (AWS), working on very exciting projects. Happy to refer!",
+    "name": "Aqeel Raza",
+    "label": "Senior Backend Developer",
+    "picture": "https://avatars.githubusercontent.com/u/aqeelrazagondal?v=4",
+    "website": "https://aqeelrazagondal.github.io",
+    "summary": "Senior Node.js Developer with 6+ years of experience in building secure, scalable backend systems using Node.js, NestJS, TypeScript, and AWS. Experienced in microservices, serverless architectures, and cloud-native application development.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "San Jose",
-      "countryCode": "",
-      "region": "CA"
+      "postalCode": "NN1 4PB",
+      "city": "Northampton",
+      "countryCode": "UK",
+      "region": "England"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "zhenye-na",
-        "url": "http://github.com/zhenye-na"
+        "username": "aqeelrazagondal",
+        "url": "https://github.com/aqeelrazagondal"
       },
       {
         "network": "linkedin",
-        "username": "zhenyena",
-        "url": "https://www.linkedin.com/in/zhenyena/"
+        "username": "aqeel-raza-5b64887b",
+        "url": "https://www.linkedin.com/in/aqeel-raza-5b64887b/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Software Development",
-      "keywords": [
-      ]
+      "name": "Backend Architecture",
+      "keywords": []
     },
     {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
+      "name": "AWS Cloud Solutions",
+      "keywords": []
     },
     {
-      "name": "Data Science",
-      "keywords": [
-      ]
+      "name": "Open Source Contributions",
+      "keywords": []
     }
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages & Frameworks",
       "level": "",
       "keywords": [
-        "Java",
-        "Typescript/Javascript",
+        "Node.js",
+        "NestJS",
+        "TypeScript",
+        "JavaScript",
         "Python",
-        "Golang",
-        "Shell scripting",
-        "HTML",
-        "CSS"
+        "Koa.js",
+        "Sails.js",
+        "Express.js"
       ]
     },
     {
-      "name": "Frameworks",
-      "level":"",
-      "keywords": [
-        "Spring",
-        "TensorFlow",
-        "PyTorch",
-        "Symfony",
-        "Django",
-        "React",
-        "Angular"
-      ]
-    },
-    {
-      "name": "Tools",
+      "name": "Cloud & DevOps",
       "level": "",
       "keywords": [
-        "AWS",
+        "AWS (Lambda, EC2, S3, Cognito, CloudWatch, SES, SNS)",
         "Docker",
-        "Kubernetes",
-        "Helm",
-        "Grafana"
+        "CI/CD (TravisCI, AWS CodeDeploy)"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "DynamoDB",
+        "Redis",
+        "ClickHouse"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": [
+        "Microservices",
+        "Serverless",
+        "Event-Driven Architecture",
+        "REST",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Testing & Tools",
+      "level": "",
+      "keywords": [
+        "Mocha",
+        "Jasmine",
+        "GitHub",
+        "GitLab",
+        "VS Code"
+      ]
+    },
+    {
+      "name": "Messaging & Queues",
+      "level": "",
+      "keywords": [
+        "Kafka",
+        "AWS SQS/SNS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Illinois at Urbana - Champaign",
-      "area": "Master of Science, Industrial Engineering in Advanced Analytics",
-      "endDate": "May 2019"
-    },
-    {
-      "institution": "Dalian University of Technology",
-      "area": "Bachelor of Engineering, Harbor, Waterway and Coastal Engineering",
-      "endDate": "July 2017"
+      "institution": "Capital University of Science and Technology",
+      "area": "Bachelor of Science in Computer Science",
+      "endDate": "2017"
     }
   ],
   "work": [
     {
-      "company": "Amazon Web Services (AWS)",
-      "position": "Software Development Engineer",
-      "startDate": "July 2021",
-      "endDate": "Present",
-      "summary": "",
+      "company": "Funavry Technologies",
+      "position": "Senior Software Engineer",
+      "startDate": "Dec 2021",
+      "endDate": "Apr 2024",
+      "summary": "Led backend development for multiple government and enterprise applications.",
       "highlights": [
+        "Built EHR system compliant with DEA and SureScript using Node.js/NestJS.",
+        "Designed AWS infrastructure and CI/CD pipelines, speeding up deployments by 30%.",
+        "Migrated monolithic applications to microservices, reducing maintenance time by 40%.",
+        "Optimized performance for Kalba Municipality API, reducing latency by 35%."
       ]
     },
     {
-      "company": "CrowdCirlce Inc. dba HealthCrowd",
-      "position": "Data Engineer",
-      "startDate": "Mar. 2020",
-      "endDate": "Jun. 2021",
+      "company": "SmartRecruitOnline",
+      "position": "Backend Developer",
+      "startDate": "Nov 2019",
+      "endDate": "Dec 2021",
       "summary": "",
       "highlights": [
+        "Built low-latency APIs for recruitment platforms using Node.js.",
+        "Integrated PostgreSQL, MongoDB, and DynamoDB for hybrid data workflows.",
+        "Implemented AWS Lambda microservices to reduce infra costs by 25%."
+      ]
+    },
+    {
+      "company": "PackageX (VisionX)",
+      "position": "Node.js Developer",
+      "startDate": "Mar 2019",
+      "endDate": "Sep 2019",
+      "summary": "",
+      "highlights": [
+        "Developed serverless backend features using AWS Lambda and API Gateway.",
+        "Implemented secure authentication with AWS Cognito."
+      ]
+    },
+    {
+      "company": "Exagic",
+      "position": "MEAN Stack Developer",
+      "startDate": "Sep 2017",
+      "endDate": "Mar 2019",
+      "summary": "",
+      "highlights": [
+        "Built SaaS applications using Node.js and Angular.",
+        "Developed secure JWT-based auth system.",
+        "Created WebRTC-powered webinar module."
       ]
     }
   ]
